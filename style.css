@@ -217,5 +217,5 @@ select[multiple] {
 }
 
 .error {
-    background: #ffa5a5;
+    background: #ffa5a5 !important;
 }
